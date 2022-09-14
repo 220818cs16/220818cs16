@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Asad snd my ID is @220818cs16.
+- 👋 Hi, I’m Asad and my ID is @220818cs16.
 - 👀 I’m interested in CS.
 - 🌱 I’m currently learning CS.
 - 💞️ I’m a student of akfa university.
