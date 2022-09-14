@@ -2,7 +2,7 @@
 - 👀 I’m interested in CS.
 - 🌱 I’m currently learning CS.
 - 💞️ I’m a student of akfa university.
-- 📫 you can contact me with by email " 220818@akfauniversity.org ".
+- 📫 You can contact me with by email " 220818@akfauniversity.org ".
 
 <!---
 220818cs16/220818cs16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
